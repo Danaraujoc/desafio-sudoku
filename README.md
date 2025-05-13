@@ -1,7 +1,6 @@
-# desafio-sudoku
-Jogo Sudoku
+# Desafio-Sudoku
 
-Escreva um código que irá criar um jogo de sudoku
+Jogo Sudoku: Escreva um código que irá criar um jogo de sudoku
 
 https://pt.wikipedia.org/wiki/Sudoku
 
@@ -24,5 +23,5 @@ https://pt.wikipedia.org/wiki/Sudoku
     1. Usar algum ambiente gráfico ( AWT, Swing) para criação do jogo
     2. ter a opção de colocar números de rascunho nos quadrados, para isso deve-se seguir o modelo proposto na sessão modelo de rascunho:
 
- ### modelo com números
+ ### Modelo com números
   ![Sudoku](https://github.com/Danaraujoc/desafio-sudoku/blob/main/sudoku.jpg)
