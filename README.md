@@ -25,4 +25,4 @@ https://pt.wikipedia.org/wiki/Sudoku
     2. ter a opção de colocar números de rascunho nos quadrados, para isso deve-se seguir o modelo proposto na sessão modelo de rascunho:
 
  ### modelo com números
-  ![Sudoku](
+  ![Sudoku](https://github.com/Danaraujoc/desafio-sudoku/blob/main/sudoku.jpg)
