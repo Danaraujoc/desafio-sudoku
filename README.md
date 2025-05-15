@@ -35,6 +35,10 @@ https://pt.wikipedia.org/wiki/Sudoku
  0,6;7,true 1,6;5,false 2,6;4,false 3,6;2,false 4,6;3,true 5,6;9,false 6,6;6,false 7,6;1,true 8,6;8,false 0,7;9,true 1,7;8,true 2,7;1,false 3,7;6,false 4,7;4,true 5,7;7,false 6,7;5,false 7,7;2,true 8,7;3,false 
  0,8;3,false 1,8;2,false 2,8;6,true 3,8;8,true 4,8;5,true 5,8;1,false 6,8;4,true 7,8;7,false 8,8;9,false`
 
+ ### Resultado
+
+ ![Resultado](https://github.com/Danaraujoc/desafio-sudoku/blob/ui/Resultado.jpg)
+
 ### Links Importantes
 
 - [Draw.io](https://app.diagrams.net)  
